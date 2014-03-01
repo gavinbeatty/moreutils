@@ -22,6 +22,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 #include <sys/types.h>
+#include <signal.h>
 #include <string.h>
 #define streq(a, b) (!strcmp((a), (b)))
 
