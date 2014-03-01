@@ -1,6 +1,6 @@
 *.dSYM/
 .shake.database
-ifdat
+ifdata
 ifne
 isutf8
 lckdo
@@ -10,7 +10,7 @@ pee
 sponge
 chronic.1
 combine.1
-ifdat.1
+ifdata.1
 ifne.1
 isutf8.1
 lckdo.1
